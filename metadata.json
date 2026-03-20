@@ -1,0 +1,5 @@
+{
+  "name": "FastRUPI",
+  "description": "Ultra-fast expense tracker for UPI-heavy Indian users with SMS parsing and one-tap entry.",
+  "requestFramePermissions": []
+}
